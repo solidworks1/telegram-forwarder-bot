@@ -2,6 +2,7 @@
 
 
 https://github.com/user-attachments/assets/6b79b1a4-576d-4434-a149-25f448c01e7a
+(You can watch the video in better quality here:  https://t.me/solid_marketing/40)
 
 
 🌐 TELEGRAM FORWARDER BOT 🌐
