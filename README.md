@@ -14,9 +14,15 @@ This bot forwards your message from one group, channel, or chat of your choice t
 ✔️Moreover, we have developed an algorithm to prevent your account from being banned by Telegram due to spam!
 
 ✅ Don't get banned and don't be flagged as spam! 🛡
+
 ✅ Access to all future updates! 🌟
+
 ✅ API supported! 💻
+
 ✅ Ready to use! 🚀
+
 ✅ Suitable for multi-use! 🔄
+
 ✅ Access to the bot with all source code! 📂
+
 ✅ Supports multiple simultaneous forwards with customizable intervals!📨
